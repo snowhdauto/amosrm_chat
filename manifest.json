@@ -1,0 +1,29 @@
+{
+  "widget": {
+    "name": "widget.name",
+    "description": "widget.description",
+    "short_description": "widget.short_description",
+    "version": "1.0.26",
+    "interface_version": 2,
+    "init_once": true,
+    "locale": [
+      "ru",
+      "en"
+    ],
+    "installation": true,
+    "support": {
+      "link": "https://www.dolphron.com",
+      "email": "hello@dolphron.com"
+    }
+  },
+  "locations": [
+    "everywhere"
+  ],
+  "settings": {
+    "chatra_id": {
+      "name": "settings.chatra_id",
+      "type": "text",
+      "required": true
+    }
+  }
+}

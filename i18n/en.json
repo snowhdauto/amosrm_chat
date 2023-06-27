@@ -1,0 +1,11 @@
+{
+    "widget":{
+        "name":"Chatra",
+        "short_description":"Chatra is made by a team of programmers, entrepreneurs and support staff. We understand from our own experience how good service helps sales.",
+        "description":"Chatra is made by a team of programmers, entrepreneurs and support staff. We understand from our own experience how good service helps sales.",
+        "tour_description":"Chatra is made by a team of programmers, entrepreneurs and support staff. We understand from our own experience how good service helps sales."
+    },
+    "settings":{
+        "chatra_id":"Chatra ID"
+    }
+}
